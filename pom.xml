@@ -39,6 +39,6 @@
 
 
   <build>
-    <finalName>jersey-mysql</finalName>
+    <finalName>ROOT</finalName>
   </build>
 </project>
